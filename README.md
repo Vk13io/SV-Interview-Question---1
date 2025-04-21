@@ -1,4 +1,3 @@
-#---------------------- SV-Interview-Question
+#------------------------------------------------------------------------------------------------ SV-Interview-Question -----------------------------------------------------------------------------------------------#
 
-#1.Find Third Largest Number Without Built in Function
-#2.Unique Dynamic array with constraints
+A repository where I share my SystemVerilog practice exercises along with commonly asked interview questions and their solutions.
